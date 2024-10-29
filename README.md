@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @75ruhsus
+- 👋 Hi, I’m Batuhan Korkmaz
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on developers
